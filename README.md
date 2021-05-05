@@ -22,6 +22,8 @@ In order to try and make myself as familiar with the tech-stack, I decided to ch
     - Env: Node.js
 
 
+Note: If you want to test this, then i need to give you access to my mongodb + password so let me know
+
 Details:
 
 - To put it into a bit of detail, the frontend consists of four major components: (Dashboard, Columns, Post, Header). The header isnt fully functional on the backend but I at least wanted to make the webpage look a little better and filled rather than having a singular kanban dashboard. The dashboard represents the overall table while each column holds the column title and multiple posts that are tied to the column_title such as "to-do". I've also added a settings sign that I wanted to allow for adding and deleting columns;however, due to the essense of time, thought it would be better to move on.
